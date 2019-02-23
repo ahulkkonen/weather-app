@@ -1,0 +1,2642 @@
+[
+  {
+    "title": "Adak",
+    "description": "United States"
+  },
+  {
+    "title": "Apia",
+    "description": "Samoa"
+  },
+  {
+    "title": "Pago Pago",
+    "description": "United States"
+  },
+  {
+    "title": "Alofi",
+    "description": "Niue"
+  },
+  {
+    "title": "Avarua",
+    "description": "Cook Islands"
+  },
+  {
+    "title": "Honolulu",
+    "description": "United States"
+  },
+  {
+    "title": "Hilo",
+    "description": "United States"
+  },
+  {
+    "title": "Anchorage",
+    "description": "United States"
+  },
+  {
+    "title": "Papeete",
+    "description": "French Polynesia"
+  },
+  {
+    "title": "Fairbanks",
+    "description": "United States"
+  },
+  {
+    "title": "Sitka",
+    "description": "United States"
+  },
+  {
+    "title": "Whitehorse",
+    "description": "Canada"
+  },
+  {
+    "title": "Juneau",
+    "description": "United States"
+  },
+  {
+    "title": "Adamstown",
+    "description": "United States"
+  },
+  {
+    "title": "Vancouver",
+    "description": "Canada"
+  },
+  {
+    "title": "Portland",
+    "description": "United States"
+  },
+  {
+    "title": "San Francisco",
+    "description": "United States"
+  },
+  {
+    "title": "Seattle",
+    "description": "United States"
+  },
+  {
+    "title": "Sacramento",
+    "description": "United States"
+  },
+  {
+    "title": "Los Angeles",
+    "description": "United States"
+  },
+  {
+    "title": "Riverside",
+    "description": "United States"
+  },
+  {
+    "title": "San Diego",
+    "description": "United States"
+  },
+  {
+    "title": "Tijuana",
+    "description": "Mexico"
+  },
+  {
+    "title": "Mexicali",
+    "description": "Mexico"
+  },
+  {
+    "title": "Las Vegas",
+    "description": "United States"
+  },
+  {
+    "title": "Yellowknife",
+    "description": "Canada"
+  },
+  {
+    "title": "Calgary",
+    "description": "Canada"
+  },
+  {
+    "title": "Edmonton",
+    "description": "Canada"
+  },
+  {
+    "title": "Phoenix",
+    "description": "United States"
+  },
+  {
+    "title": "Salt Lake title",
+    "description": "United States"
+  },
+  {
+    "title": "Tucson",
+    "description": "United States"
+  },
+  {
+    "title": "Hanga Roa",
+    "description": "Chile"
+  },
+  {
+    "title": "Saskatoon",
+    "description": "Canada"
+  },
+  {
+    "title": "Albuquerque",
+    "description": "United States"
+  },
+  {
+    "title": "El Paso",
+    "description": "United States"
+  },
+  {
+    "title": "Chihuahua",
+    "description": "Mexico"
+  },
+  {
+    "title": "Denver",
+    "description": "United States"
+  },
+  {
+    "title": "Durango",
+    "description": "Mexico"
+  },
+  {
+    "title": "Regina",
+    "description": "Canada"
+  },
+  {
+    "title": "Zapopan",
+    "description": "Mexico"
+  },
+  {
+    "title": "Guadalajara",
+    "description": "Mexico"
+  },
+  {
+    "title": "Monterrey",
+    "description": "Mexico"
+  },
+  {
+    "title": "Mexico title",
+    "description": "Mexico"
+  },
+  {
+    "title": "San Antonio",
+    "description": "United States"
+  },
+  {
+    "title": "Puebla",
+    "description": "Mexico"
+  },
+  {
+    "title": "Austin",
+    "description": "United States"
+  },
+  {
+    "title": "Oklahoma title",
+    "description": "United States"
+  },
+  {
+    "title": "Wichita",
+    "description": "United States"
+  },
+  {
+    "title": "Winnipeg",
+    "description": "Canada"
+  },
+  {
+    "title": "Dallas",
+    "description": "United States"
+  },
+  {
+    "title": "Veracruz",
+    "description": "Mexico"
+  },
+  {
+    "title": "Houston",
+    "description": "United States"
+  },
+  {
+    "title": "Kansas title",
+    "description": "United States"
+  },
+  {
+    "title": "Minneapolis",
+    "description": "United States"
+  },
+  {
+    "title": "Quetzaltenango",
+    "description": "Guatemala"
+  },
+  {
+    "title": "Guatemala title",
+    "description": "Guatemala"
+  },
+  {
+    "title": "New Orleans",
+    "description": "United States"
+  },
+  {
+    "title": "Memphis",
+    "description": "United States"
+  },
+  {
+    "title": "Mérida",
+    "description": "Mexico"
+  },
+  {
+    "title": "San Salvador",
+    "description": "El Salvador"
+  },
+  {
+    "title": "Belmopan",
+    "description": "Belize"
+  },
+  {
+    "title": "Belize title",
+    "description": "Belize"
+  },
+  {
+    "title": "Milwaukee",
+    "description": "United States"
+  },
+  {
+    "title": "Chicago",
+    "description": "United States"
+  },
+  {
+    "title": "Tegucigalpa",
+    "description": "Honduras"
+  },
+  {
+    "title": "Nashville",
+    "description": "United States"
+  },
+  {
+    "title": "Managua",
+    "description": "Nicaragua"
+  },
+  {
+    "title": "Indianapolis",
+    "description": "United States"
+  },
+  {
+    "title": "Louisville",
+    "description": "United States"
+  },
+  {
+    "title": "Cincinnati",
+    "description": "United States"
+  },
+  {
+    "title": "Atlanta",
+    "description": "United States"
+  },
+  {
+    "title": "San José",
+    "description": "Costa Rica"
+  },
+  {
+    "title": "Detroit",
+    "description": "United States"
+  },
+  {
+    "title": "Columbus",
+    "description": "United States"
+  },
+  {
+    "title": "Tampa",
+    "description": "United States"
+  },
+  {
+    "title": "Havana",
+    "description": "Cuba"
+  },
+  {
+    "title": "Cleveland",
+    "description": "United States"
+  },
+  {
+    "title": "Jacksonville",
+    "description": "United States"
+  },
+  {
+    "title": "George Town",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Charlotte",
+    "description": "United States"
+  },
+  {
+    "title": "Miami",
+    "description": "United States"
+  },
+  {
+    "title": "Pittsburgh",
+    "description": "United States"
+  },
+  {
+    "title": "Guayaquil",
+    "description": "Ecuador"
+  },
+  {
+    "title": "Panama title",
+    "description": "Panama"
+  },
+  {
+    "title": "Toronto",
+    "description": "Canada"
+  },
+  {
+    "title": "Buffalo",
+    "description": "United States"
+  },
+  {
+    "title": "Raleigh",
+    "description": "United States"
+  },
+  {
+    "title": "Quito",
+    "description": "Ecuador"
+  },
+  {
+    "title": "Rochester",
+    "description": "United States"
+  },
+  {
+    "title": "Nassau",
+    "description": "The Bahamas"
+  },
+  {
+    "title": "Washington",
+    "description": "United States"
+  },
+  {
+    "title": "Lima",
+    "description": "Peru"
+  },
+  {
+    "title": "Kingston",
+    "description": "Jamaica"
+  },
+  {
+    "title": "Baltimore",
+    "description": "United States"
+  },
+  {
+    "title": "Cali",
+    "description": "Colombia"
+  },
+  {
+    "title": "Virginia Beach",
+    "description": "United States"
+  },
+  {
+    "title": "Ottawa",
+    "description": "Canada"
+  },
+  {
+    "title": "Medellín",
+    "description": "Colombia"
+  },
+  {
+    "title": "Cartagena",
+    "description": "Colombia"
+  },
+  {
+    "title": "Philadelphia",
+    "description": "United States"
+  },
+  {
+    "title": "Barranquilla",
+    "description": "Colombia"
+  },
+  {
+    "title": "Forked River",
+    "description": "United States"
+  },
+  {
+    "title": "Jersey title",
+    "description": "United States"
+  },
+  {
+    "title": "Bogotá",
+    "description": "Colombia"
+  },
+  {
+    "title": "Montreal",
+    "description": "Canada"
+  },
+  {
+    "title": "Iquitos",
+    "description": "Peru"
+  },
+  {
+    "title": "Valdivia",
+    "description": "Chile"
+  },
+  {
+    "title": "Concepción",
+    "description": "Chile"
+  },
+  {
+    "title": "Cusco",
+    "description": "Peru"
+  },
+  {
+    "title": "Maracaibo",
+    "description": "Venezuela"
+  },
+  {
+    "title": "Valparaíso",
+    "description": "Chile"
+  },
+  {
+    "title": "Arequipa",
+    "description": "Peru"
+  },
+  {
+    "title": "Providence",
+    "description": "United States"
+  },
+  {
+    "title": "La Serena",
+    "description": "Chile"
+  },
+  {
+    "title": "Cockburn Town",
+    "description": "Turks and Caicos Islands"
+  },
+  {
+    "title": "Boston",
+    "description": "United States"
+  },
+  {
+    "title": "Punta Arenas",
+    "description": "Chile"
+  },
+  {
+    "title": "Santiago",
+    "description": "Chile"
+  },
+  {
+    "title": "Antofagasta",
+    "description": "Chile"
+  },
+  {
+    "title": "Iquique",
+    "description": "Chile"
+  },
+  {
+    "title": "Oranjestad",
+    "description": "Aruba"
+  },
+  {
+    "title": "Santo Domingo",
+    "description": "Dominican Republic"
+  },
+  {
+    "title": "Rio Branco",
+    "description": "Brazil"
+  },
+  {
+    "title": "Willemstad",
+    "description": "Netherlands Antilles"
+  },
+  {
+    "title": "Calama",
+    "description": "Chile"
+  },
+  {
+    "title": "Mendoza",
+    "description": "Argentina"
+  },
+  {
+    "title": "Iqaluit",
+    "description": "Canada"
+  },
+  {
+    "title": "Ushuaia",
+    "description": "Argentina"
+  },
+  {
+    "title": "La Paz",
+    "description": "Bolivia"
+  },
+  {
+    "title": "Puerto Williams",
+    "description": "Chile"
+  },
+  {
+    "title": "Caracas",
+    "description": "Venezuela"
+  },
+  {
+    "title": "Fredericton",
+    "description": "Canada"
+  },
+  {
+    "title": "San Juan",
+    "description": "Puerto Rico"
+  },
+  {
+    "title": "Saint John",
+    "description": "Grenada"
+  },
+  {
+    "title": "Sucre",
+    "description": "Bolivia"
+  },
+  {
+    "title": "Charlotte Amalie",
+    "description": "United States"
+  },
+  {
+    "title": "Hamilton",
+    "description": "Bermuda"
+  },
+  {
+    "title": "Road Town",
+    "description": "British Virgin Islands"
+  },
+  {
+    "title": "Córdoba",
+    "description": "Argentina"
+  },
+  {
+    "title": "Porto Velho",
+    "description": "Brazil"
+  },
+  {
+    "title": "Charlottetown",
+    "description": "Canada"
+  },
+  {
+    "title": "The Valley",
+    "description": "Anguilla"
+  },
+  {
+    "title": "Basse-Terre",
+    "description": "Guadeloupe"
+  },
+  {
+    "title": "Bahía Blanca",
+    "description": "Argentina"
+  },
+  {
+    "title": "St. John's",
+    "description": "Canada"
+  },
+  {
+    "title": "San Fernando",
+    "description": "Trinidad and Tobago"
+  },
+  {
+    "title": "Roseau",
+    "description": "Dominica"
+  },
+  {
+    "title": "Chaguanas",
+    "description": "Trinidad and Tobago"
+  },
+  {
+    "title": "Kingstown",
+    "description": "Saint Vincent and the Grenadines"
+  },
+  {
+    "title": "Castries",
+    "description": "St. Lucia"
+  },
+  {
+    "title": "Rosario",
+    "description": "Argentina"
+  },
+  {
+    "title": "Boa Vista",
+    "description": "Brazil"
+  },
+  {
+    "title": "Manaus",
+    "description": "Brazil"
+  },
+  {
+    "title": "Bridgetown",
+    "description": "Barbados"
+  },
+  {
+    "title": "Buenos Aires",
+    "description": "Argentina"
+  },
+  {
+    "title": "Stanley",
+    "description": "Hong Kong"
+  },
+  {
+    "title": "Asunción",
+    "description": "Paraguay"
+  },
+  {
+    "title": "Saint-Pierre",
+    "description": "Réunion"
+  },
+  {
+    "title": "Montevideo",
+    "description": "Uruguay"
+  },
+  {
+    "title": "Cuiabá",
+    "description": "Brazil"
+  },
+  {
+    "title": "Paramaribo",
+    "description": "Suriname"
+  },
+  {
+    "title": "Campo Grande",
+    "description": "Brazil"
+  },
+  {
+    "title": "Chuí",
+    "description": "Brazil"
+  },
+  {
+    "title": "Pelotas",
+    "description": "Brazil"
+  },
+  {
+    "title": "Cayenne",
+    "description": "French Guiana"
+  },
+  {
+    "title": "Nuuk",
+    "description": "Greenland"
+  },
+  {
+    "title": "Porto Alegre",
+    "description": "Brazil"
+  },
+  {
+    "title": "Macapá",
+    "description": "Brazil"
+  },
+  {
+    "title": "Assis",
+    "description": "Italy"
+  },
+  {
+    "title": "Curitiba",
+    "description": "Brazil"
+  },
+  {
+    "title": "Belém",
+    "description": "Brazil"
+  },
+  {
+    "title": "Brasília",
+    "description": "Brazil"
+  },
+  {
+    "title": "Campinas",
+    "description": "Brazil"
+  },
+  {
+    "title": "São Paulo",
+    "description": "Brazil"
+  },
+  {
+    "title": "Vitória",
+    "description": "Brazil"
+  },
+  {
+    "title": "Ilhéus",
+    "description": "Brazil"
+  },
+  {
+    "title": "Fortaleza",
+    "description": "Brazil"
+  },
+  {
+    "title": "Maceió",
+    "description": "Brazil"
+  },
+  {
+    "title": "Recife",
+    "description": "Brazil"
+  },
+  {
+    "title": "Ponta Delgada",
+    "description": "Portugal"
+  },
+  {
+    "title": "Praia",
+    "description": "Brazil"
+  },
+  {
+    "title": "Reykjavík",
+    "description": "Iceland"
+  },
+  {
+    "title": "Dakar",
+    "description": "Senegal"
+  },
+  {
+    "title": "Thiès",
+    "description": "Senegal"
+  },
+  {
+    "title": "Serekunda",
+    "description": "The Gambia"
+  },
+  {
+    "title": "Brikama",
+    "description": "The Gambia"
+  },
+  {
+    "title": "Banjul",
+    "description": "The Gambia"
+  },
+  {
+    "title": "Nouakchott",
+    "description": "Mauritania"
+  },
+  {
+    "title": "Bissau",
+    "description": "Guinea-Bissau"
+  },
+  {
+    "title": "Conakry",
+    "description": "Guinea"
+  },
+  {
+    "title": "Freetown",
+    "description": "Sierra Leone"
+  },
+  {
+    "title": "El Aaiún",
+    "description": "Western Sahara"
+  },
+  {
+    "title": "Monrovia",
+    "description": "Liberia"
+  },
+  {
+    "title": "Lisbon",
+    "description": "Portugal"
+  },
+  {
+    "title": "Porto",
+    "description": "Brazil"
+  },
+  {
+    "title": "Bamako",
+    "description": "Mali"
+  },
+  {
+    "title": "Casablanca",
+    "description": "Morocco"
+  },
+  {
+    "title": "Koulikoro",
+    "description": "Mali"
+  },
+  {
+    "title": "Rabat",
+    "description": "Morocco"
+  },
+  {
+    "title": "Tórshavn",
+    "description": "Faroe Islands"
+  },
+  {
+    "title": "Dublin",
+    "description": "Ireland"
+  },
+  {
+    "title": "Seville",
+    "description": "Spain"
+  },
+  {
+    "title": "Belfast",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Jamestown",
+    "description": "United States"
+  },
+  {
+    "title": "Gibraltar",
+    "description": "Gibraltar"
+  },
+  {
+    "title": "Yamoussoukro",
+    "description": "Côte d'Ivoire"
+  },
+  {
+    "title": "Douglas",
+    "description": "Australia"
+  },
+  {
+    "title": "Málaga",
+    "description": "Spain"
+  },
+  {
+    "title": "Glasgow",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Abidjan",
+    "description": "Côte d'Ivoire"
+  },
+  {
+    "title": "Madrid",
+    "description": "Spain"
+  },
+  {
+    "title": "Cardiff",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Edinburgh",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Timbuktu",
+    "description": "Mali"
+  },
+  {
+    "title": "Liverpool",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Bilbao",
+    "description": "Spain"
+  },
+  {
+    "title": "Manchester",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Aberdeen",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Birmingham",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Leeds",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Nantes",
+    "description": "France"
+  },
+  {
+    "title": "Ouagadougou",
+    "description": "Burkina Faso"
+  },
+  {
+    "title": "Tamale",
+    "description": "Ghana"
+  },
+  {
+    "title": "Valencia",
+    "description": "Spain"
+  },
+  {
+    "title": "Accra",
+    "description": "Ghana"
+  },
+  {
+    "title": "London",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Greenwich",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Lomé",
+    "description": "Togo"
+  },
+  {
+    "title": "Toulouse",
+    "description": "France"
+  },
+  {
+    "title": "Ibiza",
+    "description": "Spain"
+  },
+  {
+    "title": "Niamey",
+    "description": "Niger"
+  },
+  {
+    "title": "Barcelona",
+    "description": "Spain"
+  },
+  {
+    "title": "Paris",
+    "description": "France"
+  },
+  {
+    "title": "Cotonou",
+    "description": "Benin"
+  },
+  {
+    "title": "Porto-Novo",
+    "description": "Benin"
+  },
+  {
+    "title": "Palma",
+    "description": "Spain"
+  },
+  {
+    "title": "Algiers",
+    "description": "Algeria"
+  },
+  {
+    "title": "Lagos",
+    "description": "Nigeria"
+  },
+  {
+    "title": "Ibadan",
+    "description": "Nigeria"
+  },
+  {
+    "title": "The Hague",
+    "description": "Netherlands"
+  },
+  {
+    "title": "Brussels",
+    "description": "Belgium"
+  },
+  {
+    "title": "Antwerp",
+    "description": "Belgium"
+  },
+  {
+    "title": "Rotterdam",
+    "description": "Netherlands"
+  },
+  {
+    "title": "Lyon",
+    "description": "France"
+  },
+  {
+    "title": "Amsterdam",
+    "description": "Netherlands"
+  },
+  {
+    "title": "Marseille",
+    "description": "France"
+  },
+  {
+    "title": "Bergen",
+    "description": "Norway"
+  },
+  {
+    "title": "Geneva",
+    "description": "Switzerland"
+  },
+  {
+    "title": "São Tomé",
+    "description": "Brazil"
+  },
+  {
+    "title": "Düsseldorf",
+    "description": "Germany"
+  },
+  {
+    "title": "Cologne",
+    "description": "Germany"
+  },
+  {
+    "title": "Cannes",
+    "description": "France"
+  },
+  {
+    "title": "Nice",
+    "description": "France"
+  },
+  {
+    "title": "Monaco",
+    "description": "Monaco"
+  },
+  {
+    "title": "Bern",
+    "description": "Brazil"
+  },
+  {
+    "title": "Abuja",
+    "description": "Nigeria"
+  },
+  {
+    "title": "Enugu",
+    "description": "Nigeria"
+  },
+  {
+    "title": "Turin",
+    "description": "Italy"
+  },
+  {
+    "title": "Strasbourg",
+    "description": "France"
+  },
+  {
+    "title": "Kano",
+    "description": "Nigeria"
+  },
+  {
+    "title": "Zürich",
+    "description": "Switzerland"
+  },
+  {
+    "title": "Frankfurt",
+    "description": "Germany"
+  },
+  {
+    "title": "Malabo",
+    "description": "Philippines"
+  },
+  {
+    "title": "Stuttgart",
+    "description": "Germany"
+  },
+  {
+    "title": "Milan",
+    "description": "Italy"
+  },
+  {
+    "title": "Libreville",
+    "description": "Gabon"
+  },
+  {
+    "title": "Vaduz",
+    "description": "Liechtenstein"
+  },
+  {
+    "title": "Douala",
+    "description": "Cameroon"
+  },
+  {
+    "title": "Hanover",
+    "description": "Germany"
+  },
+  {
+    "title": "Hamburg",
+    "description": "Germany"
+  },
+  {
+    "title": "Tunis",
+    "description": "Tunisia"
+  },
+  {
+    "title": "Aarhus",
+    "description": "Denmark"
+  },
+  {
+    "title": "Oslo",
+    "description": "Norway"
+  },
+  {
+    "title": "Innsbruck",
+    "description": "Austria"
+  },
+  {
+    "title": "Yaoundé",
+    "description": "Cameroon"
+  },
+  {
+    "title": "Munich",
+    "description": "Germany"
+  },
+  {
+    "title": "Gothenburg",
+    "description": "Sweden"
+  },
+  {
+    "title": "Leipzig",
+    "description": "Germany"
+  },
+  {
+    "title": "Rome",
+    "description": "Italy"
+  },
+  {
+    "title": "Copenhagen",
+    "description": "Denmark"
+  },
+  {
+    "title": "Malmö",
+    "description": "Sweden"
+  },
+  {
+    "title": "Salzburg",
+    "description": "Austria"
+  },
+  {
+    "title": "Tripoli",
+    "description": "Libya"
+  },
+  {
+    "title": "Luanda",
+    "description": "Angola"
+  },
+  {
+    "title": "Berlin",
+    "description": "Germany"
+  },
+  {
+    "title": "Dresden",
+    "description": "Germany"
+  },
+  {
+    "title": "Naples",
+    "description": "Italy"
+  },
+  {
+    "title": "Linz",
+    "description": "Austria"
+  },
+  {
+    "title": "Prague",
+    "description": "Czech Republic"
+  },
+  {
+    "title": "Sabha",
+    "description": "Libya"
+  },
+  {
+    "title": "Birkirkara",
+    "description": "Malta"
+  },
+  {
+    "title": "Ljubljana",
+    "description": "Slovenia"
+  },
+  {
+    "title": "Valletta",
+    "description": "Malta"
+  },
+  {
+    "title": "N'Djamena",
+    "description": "Chad"
+  },
+  {
+    "title": "Brazzaville",
+    "description": "Republic of the Congo"
+  },
+  {
+    "title": "Kinshasa",
+    "description": "Democratic Republic of the Congo"
+  },
+  {
+    "title": "Graz",
+    "description": "Austria"
+  },
+  {
+    "title": "Longyearbyen",
+    "description": "Svalbard and Jan Mayen"
+  },
+  {
+    "title": "Zagreb",
+    "description": "Croatia"
+  },
+  {
+    "title": "Vienna",
+    "description": "Austria"
+  },
+  {
+    "title": "Bratislava",
+    "description": "Slovakia"
+  },
+  {
+    "title": "Stockholm",
+    "description": "Sweden"
+  },
+  {
+    "title": "Sarajevo",
+    "description": "Bosnia and Herzegovina"
+  },
+  {
+    "title": "Cape Town",
+    "description": "South Africa"
+  },
+  {
+    "title": "Bangui",
+    "description": "Central African Republic"
+  },
+  {
+    "title": "Budapest",
+    "description": "Hungary"
+  },
+  {
+    "title": "Podgorica",
+    "description": "Montenegro"
+  },
+  {
+    "title": "Tirana",
+    "description": "Albania"
+  },
+  {
+    "title": "Kraków",
+    "description": "Poland"
+  },
+  {
+    "title": "Belgrade",
+    "description": "Serbia"
+  },
+  {
+    "title": "Kaliningrad",
+    "description": "Russia"
+  },
+  {
+    "title": "Warsaw",
+    "description": "Poland"
+  },
+  {
+    "title": "Pristina",
+    "description": "Kosovo"
+  },
+  {
+    "title": "Skopje",
+    "description": "Macedonia"
+  },
+  {
+    "title": "Sofia",
+    "description": "Bulgaria"
+  },
+  {
+    "title": "Athens",
+    "description": "Greece"
+  },
+  {
+    "title": "Tampere",
+    "description": "Finland"
+  },
+  {
+    "title": "Lviv",
+    "description": "Ukraine"
+  },
+  {
+    "title": "Riga",
+    "description": "Latvia"
+  },
+  {
+    "title": "Espoo",
+    "description": "Finland"
+  },
+  {
+    "title": "Tallinn",
+    "description": "Estonia"
+  },
+  {
+    "title": "Helsinki",
+    "description": "Finland"
+  },
+  {
+    "title": "Vilnius",
+    "description": "Lithuania"
+  },
+  {
+    "title": "Port Elizabeth",
+    "description": "South Africa"
+  },
+  {
+    "title": "Livingstone",
+    "description": "Zambia"
+  },
+  {
+    "title": "Gaborone",
+    "description": "Botswana"
+  },
+  {
+    "title": "Bucharest",
+    "description": "Romania"
+  },
+  {
+    "title": "Bloemfontein",
+    "description": "South Africa"
+  },
+  {
+    "title": "Tartu",
+    "description": "Syria"
+  },
+  {
+    "title": "Lubumbashi",
+    "description": "Democratic Republic of the Congo"
+  },
+  {
+    "title": "Maseru",
+    "description": "Lesotho"
+  },
+  {
+    "title": "Francistown",
+    "description": "Botswana"
+  },
+  {
+    "title": "Minsk",
+    "description": "Belarus"
+  },
+  {
+    "title": "Johannesburg",
+    "description": "South Africa"
+  },
+  {
+    "title": "Pretoria",
+    "description": "South Africa"
+  },
+  {
+    "title": "Lusaka",
+    "description": "Zambia"
+  },
+  {
+    "title": "Ndola",
+    "description": "Zambia"
+  },
+  {
+    "title": "Bulawayo",
+    "description": "Zimbabwe"
+  },
+  {
+    "title": "Istanbul",
+    "description": "Turkey"
+  },
+  {
+    "title": "Bursa",
+    "description": "Turkey"
+  },
+  {
+    "title": "Bujumbura",
+    "description": "Burundi"
+  },
+  {
+    "title": "Tiraspol",
+    "description": "Moldova"
+  },
+  {
+    "title": "Alexandria",
+    "description": "Egypt"
+  },
+  {
+    "title": "Kigali",
+    "description": "Rwanda"
+  },
+  {
+    "title": "Saint Petersburg",
+    "description": "Russia"
+  },
+  {
+    "title": "Odessa",
+    "description": "Ukraine"
+  },
+  {
+    "title": "Harare",
+    "description": "Zimbabwe"
+  },
+  {
+    "title": "Durban",
+    "description": "South Africa"
+  },
+  {
+    "title": "Mbabane",
+    "description": "Swaziland"
+  },
+  {
+    "title": "Lobamba",
+    "description": "Swaziland"
+  },
+  {
+    "title": "Cairo",
+    "description": "Egypt"
+  },
+  {
+    "title": "Manzini",
+    "description": "Swaziland"
+  },
+  {
+    "title": "Port Said",
+    "description": "Egypt"
+  },
+  {
+    "title": "Konya",
+    "description": "Turkey"
+  },
+  {
+    "title": "Omdurman",
+    "description": "Sudan"
+  },
+  {
+    "title": "Khartoum",
+    "description": "Sudan"
+  },
+  {
+    "title": "Suez",
+    "description": "Egypt"
+  },
+  {
+    "title": "Maputo",
+    "description": "Mozambique"
+  },
+  {
+    "title": "Luxor",
+    "description": "Egypt"
+  },
+  {
+    "title": "Ankara",
+    "description": "Turkey"
+  },
+  {
+    "title": "Mwanza",
+    "description": "Tanzania"
+  },
+  {
+    "title": "Murmansk",
+    "description": "Russia"
+  },
+  {
+    "title": "Nicosia",
+    "description": "Cyprus"
+  },
+  {
+    "title": "Lilongwe",
+    "description": "Malawi"
+  },
+  {
+    "title": "Simferopol",
+    "description": "Ukraine"
+  },
+  {
+    "title": "Gaza",
+    "description": "Palestine"
+  },
+  {
+    "title": "Mersin",
+    "description": "Turkey"
+  },
+  {
+    "title": "Tel Aviv",
+    "description": "Israel"
+  },
+  {
+    "title": "Blantyre",
+    "description": "Malawi"
+  },
+  {
+    "title": "Jerusalem",
+    "description": "Israel"
+  },
+  {
+    "title": "Adana",
+    "description": "Turkey"
+  },
+  {
+    "title": "Beirut",
+    "description": "Lebanon"
+  },
+  {
+    "title": "Dodoma",
+    "description": "Tanzania"
+  },
+  {
+    "title": "Amman",
+    "description": "Jordan"
+  },
+  {
+    "title": "Damascus",
+    "description": "Syria"
+  },
+  {
+    "title": "Kharkiv",
+    "description": "Ukraine"
+  },
+  {
+    "title": "Nairobi",
+    "description": "Kenya"
+  },
+  {
+    "title": "Gaziantep",
+    "description": "Turkey"
+  },
+  {
+    "title": "Moscow",
+    "description": "Russia"
+  },
+  {
+    "title": "Addis Ababa",
+    "description": "Ethiopia"
+  },
+  {
+    "title": "Asmara",
+    "description": "Eritrea"
+  },
+  {
+    "title": "Jeddah",
+    "description": "Saudi Arabia"
+  },
+  {
+    "title": "Zanzibar title",
+    "description": "Tanzania"
+  },
+  {
+    "title": "Medina",
+    "description": "Saudi Arabia"
+  },
+  {
+    "title": "Mecca",
+    "description": "Saudi Arabia"
+  },
+  {
+    "title": "Sukhumi",
+    "description": "Georgia"
+  },
+  {
+    "title": "Moroni",
+    "description": "Comoros"
+  },
+  {
+    "title": "Baghdad",
+    "description": "Iraq"
+  },
+  {
+    "title": "Hargeisa",
+    "description": "Somalia"
+  },
+  {
+    "title": "Yerevan",
+    "description": "Armenia"
+  },
+  {
+    "title": "Tbilisi",
+    "description": "Georgia"
+  },
+  {
+    "title": "Mamoudzou",
+    "description": "Mayotte"
+  },
+  {
+    "title": "Mogadishu",
+    "description": "Somalia"
+  },
+  {
+    "title": "Tabriz",
+    "description": "Iran"
+  },
+  {
+    "title": "Riyadh",
+    "description": "Saudi Arabia"
+  },
+  {
+    "title": "Stepanakert",
+    "description": "Azerbaijan"
+  },
+  {
+    "title": "Antananarivo",
+    "description": "Madagascar"
+  },
+  {
+    "title": "Basra",
+    "description": "Iraq"
+  },
+  {
+    "title": "Baku",
+    "description": "Azerbaijan"
+  },
+  {
+    "title": "Dammam",
+    "description": "Saudi Arabia"
+  },
+  {
+    "title": "Samara",
+    "description": "Russia"
+  },
+  {
+    "title": "Manama",
+    "description": "Bahrain"
+  },
+  {
+    "title": "Tehran",
+    "description": "Iran"
+  },
+  {
+    "title": "Doha",
+    "description": "Qatar"
+  },
+  {
+    "title": "Abu Dhabi",
+    "description": "United Arab Emirates"
+  },
+  {
+    "title": "Dubai",
+    "description": "United Arab Emirates"
+  },
+  {
+    "title": "Saint-Denis",
+    "description": "Réunion"
+  },
+  {
+    "title": "Perm",
+    "description": "Russia"
+  },
+  {
+    "title": "Port Louis",
+    "description": "Mauritius"
+  },
+  {
+    "title": "Ashgabat",
+    "description": "Turkmenistan"
+  },
+  {
+    "title": "Muscat",
+    "description": "Oman"
+  },
+  {
+    "title": "Nukus",
+    "description": "Uzbekistan"
+  },
+  {
+    "title": "Mashhad",
+    "description": "Iran"
+  },
+  {
+    "title": "Yekaterinburg",
+    "description": "Russia"
+  },
+  {
+    "title": "Kandahar",
+    "description": "Afghanistan"
+  },
+  {
+    "title": "Karachi",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Hyderabad",
+    "description": "India"
+  },
+  {
+    "title": "Dushanbe",
+    "description": "Tajikistan"
+  },
+  {
+    "title": "Kabul",
+    "description": "Afghanistan"
+  },
+  {
+    "title": "Tashkent",
+    "description": "Uzbekistan"
+  },
+  {
+    "title": "Astana",
+    "description": "Kazakhstan"
+  },
+  {
+    "title": "Multan",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Peshawar",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Namangan",
+    "description": "Uzbekistan"
+  },
+  {
+    "title": "Ahmedabad",
+    "description": "India"
+  },
+  {
+    "title": "Mumbai",
+    "description": "India"
+  },
+  {
+    "title": "Surat",
+    "description": "India"
+  },
+  {
+    "title": "Faisalabad",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Rawalpindi",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Islamabad",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Omsk",
+    "description": "Russia"
+  },
+  {
+    "title": "Pune",
+    "description": "India"
+  },
+  {
+    "title": "Lahore",
+    "description": "Pakistan"
+  },
+  {
+    "title": "Bishkek",
+    "description": "Kyrgyzstan"
+  },
+  {
+    "title": "Srinagar",
+    "description": "India"
+  },
+  {
+    "title": "Amritsar",
+    "description": "India"
+  },
+  {
+    "title": "Jaipur",
+    "description": "India"
+  },
+  {
+    "title": "Ludhiana",
+    "description": "India"
+  },
+  {
+    "title": "Almaty",
+    "description": "Kazakhstan"
+  },
+  {
+    "title": "New Delhi",
+    "description": "India"
+  },
+  {
+    "title": "Bangalore",
+    "description": "India"
+  },
+  {
+    "title": "Nagpur",
+    "description": "India"
+  },
+  {
+    "title": "Colombo",
+    "description": "Sri Lanka"
+  },
+  {
+    "title": "Chennai",
+    "description": "India"
+  },
+  {
+    "title": "Kanpur",
+    "description": "India"
+  },
+  {
+    "title": "Kandy",
+    "description": "Sri Lanka"
+  },
+  {
+    "title": "Lucknow",
+    "description": "India"
+  },
+  {
+    "title": "Batticaloa",
+    "description": "Sri Lanka"
+  },
+  {
+    "title": "Novosibirsk",
+    "description": "Russia"
+  },
+  {
+    "title": "Patna",
+    "description": "India"
+  },
+  {
+    "title": "Kathmandu",
+    "description": "Nepal"
+  },
+  {
+    "title": "Ürümqi",
+    "description": "China"
+  },
+  {
+    "title": "Norilsk",
+    "description": "Russia"
+  },
+  {
+    "title": "Gangtok",
+    "description": "India"
+  },
+  {
+    "title": "Shigatse",
+    "description": "China"
+  },
+  {
+    "title": "Thimphu",
+    "description": "Bhutan"
+  },
+  {
+    "title": "Dhaka",
+    "description": "Bangladesh"
+  },
+  {
+    "title": "Lhasa",
+    "description": "China"
+  },
+  {
+    "title": "Agartala",
+    "description": "India"
+  },
+  {
+    "title": "Guwahati",
+    "description": "India"
+  },
+  {
+    "title": "Chittagong",
+    "description": "Bangladesh"
+  },
+  {
+    "title": "Shillong",
+    "description": "India"
+  },
+  {
+    "title": "Port Blair",
+    "description": "India"
+  },
+  {
+    "title": "Dibrugarh",
+    "description": "India"
+  },
+  {
+    "title": "Banda Aceh",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Yangon",
+    "description": "Myanmar"
+  },
+  {
+    "title": "Medan",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Chiang Mai",
+    "description": "Thailand"
+  },
+  {
+    "title": "Surat Thani",
+    "description": "Thailand"
+  },
+  {
+    "title": "Padang",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Hat Yai",
+    "description": "Thailand"
+  },
+  {
+    "title": "Bangkok",
+    "description": "Thailand"
+  },
+  {
+    "title": "Pattaya",
+    "description": "Thailand"
+  },
+  {
+    "title": "Ipoh",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Pekanbaru",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Bratsk",
+    "description": "Russia"
+  },
+  {
+    "title": "Kuala Lumpur",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Xining",
+    "description": "China"
+  },
+  {
+    "title": "Nakhon Ratchasima",
+    "description": "Thailand"
+  },
+  {
+    "title": "Kota Bharu",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Vientiane",
+    "description": "Laos"
+  },
+  {
+    "title": "Kunming",
+    "description": "China"
+  },
+  {
+    "title": "Udon Thani",
+    "description": "Thailand"
+  },
+  {
+    "title": "Johor Bahru",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Lanzhou",
+    "description": "China"
+  },
+  {
+    "title": "Singapore",
+    "description": "Singapore"
+  },
+  {
+    "title": "Siem Reap",
+    "description": "Cambodia"
+  },
+  {
+    "title": "Chengdu",
+    "description": "China"
+  },
+  {
+    "title": "Palembang",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Phnom Penh",
+    "description": "Cambodia"
+  },
+  {
+    "title": "Hanoi",
+    "description": "Vietnam"
+  },
+  {
+    "title": "Chongqing",
+    "description": "China"
+  },
+  {
+    "title": "Hai Phong",
+    "description": "Vietnam"
+  },
+  {
+    "title": "Ho Chi Minh title",
+    "description": "Vietnam"
+  },
+  {
+    "title": "Jakarta",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Bogor",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Ulan Bator",
+    "description": "Mongolia"
+  },
+  {
+    "title": "Bandung",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Da Nang",
+    "description": "Vietnam"
+  },
+  {
+    "title": "Nanning",
+    "description": "China"
+  },
+  {
+    "title": "Pontianak",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Kuching",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Semarang",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Taiyuan",
+    "description": "China"
+  },
+  {
+    "title": "Malang",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Surabaya",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Guangzhou",
+    "description": "China"
+  },
+  {
+    "title": "Macau",
+    "description": "Macau"
+  },
+  {
+    "title": "Zhengzhou",
+    "description": "China"
+  },
+  {
+    "title": "Dongguan",
+    "description": "China"
+  },
+  {
+    "title": "Miri",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Shenzhen",
+    "description": "China"
+  },
+  {
+    "title": "Hong Kong",
+    "description": "Hong Kong"
+  },
+  {
+    "title": "Wuhan",
+    "description": "China"
+  },
+  {
+    "title": "Handan",
+    "description": "China"
+  },
+  {
+    "title": "Shijiazhuang",
+    "description": "China"
+  },
+  {
+    "title": "Bandar Seri Begawan",
+    "description": "Brunei"
+  },
+  {
+    "title": "Denpasar",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Mandurah",
+    "description": "Australia"
+  },
+  {
+    "title": "Perth",
+    "description": "Australia"
+  },
+  {
+    "title": "Kota Kinabalu",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Beijing",
+    "description": "China"
+  },
+  {
+    "title": "Balikpapan",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Jinan",
+    "description": "China"
+  },
+  {
+    "title": "Tianjin",
+    "description": "China"
+  },
+  {
+    "title": "Port Hedland",
+    "description": "Australia"
+  },
+  {
+    "title": "Nanjing",
+    "description": "China"
+  },
+  {
+    "title": "Makassar",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Hangzhou",
+    "description": "China"
+  },
+  {
+    "title": "Kaohsiung",
+    "description": "Taiwan"
+  },
+  {
+    "title": "Qingdao",
+    "description": "China"
+  },
+  {
+    "title": "Taichung",
+    "description": "Taiwan"
+  },
+  {
+    "title": "Manila",
+    "description": "Philippines"
+  },
+  {
+    "title": "Quezon title",
+    "description": "Philippines"
+  },
+  {
+    "title": "Shanghai",
+    "description": "China"
+  },
+  {
+    "title": "Taipei",
+    "description": "Taiwan"
+  },
+  {
+    "title": "Dalian",
+    "description": "China"
+  },
+  {
+    "title": "Iloilo title",
+    "description": "Philippines"
+  },
+  {
+    "title": "Zamboanga title",
+    "description": "Philippines"
+  },
+  {
+    "title": "Shenyang",
+    "description": "China"
+  },
+  {
+    "title": "Tagbilaran",
+    "description": "Philippines"
+  },
+  {
+    "title": "Cebu title",
+    "description": "Philippines"
+  },
+  {
+    "title": "Changchun",
+    "description": "China"
+  },
+  {
+    "title": "Dili",
+    "description": "Mali"
+  },
+  {
+    "title": "Pyongyang",
+    "description": "North Korea"
+  },
+  {
+    "title": "Davao title",
+    "description": "Philippines"
+  },
+  {
+    "title": "Kaesong",
+    "description": "North Korea"
+  },
+  {
+    "title": "Harbin",
+    "description": "China"
+  },
+  {
+    "title": "Incheon",
+    "description": "South Korea"
+  },
+  {
+    "title": "Seoul",
+    "description": "South Korea"
+  },
+  {
+    "title": "Wonsan",
+    "description": "North Korea"
+  },
+  {
+    "title": "Okinawa",
+    "description": "Japan"
+  },
+  {
+    "title": "Ambon",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Daegu",
+    "description": "South Korea"
+  },
+  {
+    "title": "Busan",
+    "description": "South Korea"
+  },
+  {
+    "title": "Yakutsk",
+    "description": "Russia"
+  },
+  {
+    "title": "Chongjin",
+    "description": "North Korea"
+  },
+  {
+    "title": "Fukuoka",
+    "description": "Japan"
+  },
+  {
+    "title": "Darwin",
+    "description": "Australia"
+  },
+  {
+    "title": "Vladivostok",
+    "description": "Russia"
+  },
+  {
+    "title": "Hiroshima",
+    "description": "Japan"
+  },
+  {
+    "title": "Melekeok",
+    "description": "Palau"
+  },
+  {
+    "title": "Kobe",
+    "description": "Japan"
+  },
+  {
+    "title": "Osaka",
+    "description": "Japan"
+  },
+  {
+    "title": "Kyoto",
+    "description": "Japan"
+  },
+  {
+    "title": "Nagoya",
+    "description": "Japan"
+  },
+  {
+    "title": "Adelaide",
+    "description": "Australia"
+  },
+  {
+    "title": "Yokohama",
+    "description": "Japan"
+  },
+  {
+    "title": "Kawasaki",
+    "description": "Japan"
+  },
+  {
+    "title": "Jayapura",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Sapporo",
+    "description": "Japan"
+  },
+  {
+    "title": "Geelong",
+    "description": "Australia"
+  },
+  {
+    "title": "Hagåtña",
+    "description": "United States"
+  },
+  {
+    "title": "Dededo",
+    "description": "United States"
+  },
+  {
+    "title": "Melbourne",
+    "description": "Australia"
+  },
+  {
+    "title": "Saipan",
+    "description": "United States"
+  },
+  {
+    "title": "Cairns",
+    "description": "Australia"
+  },
+  {
+    "title": "Townsville",
+    "description": "Australia"
+  },
+  {
+    "title": "Port Moresby",
+    "description": "Papua New Guinea"
+  },
+  {
+    "title": "Hobart",
+    "description": "Australia"
+  },
+  {
+    "title": "Canberra",
+    "description": "Australia"
+  },
+  {
+    "title": "Rockhampton",
+    "description": "Australia"
+  },
+  {
+    "title": "Magadan",
+    "description": "Russia"
+  },
+  {
+    "title": "Wollongong",
+    "description": "Australia"
+  },
+  {
+    "title": "Sydney",
+    "description": "Australia"
+  },
+  {
+    "title": "Newcastle",
+    "description": "United Kingdom"
+  },
+  {
+    "title": "Weno",
+    "description": "Federated States of Micronesia"
+  },
+  {
+    "title": "Brisbane",
+    "description": "Australia"
+  },
+  {
+    "title": "Gold Coast",
+    "description": "Australia"
+  },
+  {
+    "title": "Palikir",
+    "description": "Federated States of Micronesia"
+  },
+  {
+    "title": "Honiara",
+    "description": "Solomon Islands"
+  },
+  {
+    "title": "Nouméa",
+    "description": "New Caledonia"
+  },
+  {
+    "title": "Invercargill",
+    "description": "New Zealand"
+  },
+  {
+    "title": "Dunedin",
+    "description": "New Zealand"
+  },
+  {
+    "title": "Majuro",
+    "description": "Marshall Islands"
+  },
+  {
+    "title": "Christchurch",
+    "description": "New Zealand"
+  },
+  {
+    "title": "Wellington",
+    "description": "New Zealand"
+  },
+  {
+    "title": "Auckland",
+    "description": "New Zealand"
+  },
+  {
+    "title": "Suva",
+    "description": "Fiji"
+  },
+  {
+    "title": "Funafuti",
+    "description": "Tuvalu"
+  },
+  {
+    "title": "Labasa",
+    "description": "Fiji"
+  },
+  {
+    "title": "Nukuʻalofa",
+    "description": "Tonga"
+  },
+  {
+    "title": "Rabi Island",
+    "description": ""
+  },
+  {
+    "title": "St. Louis",
+    "description": "United States"
+  },
+  {
+    "title": "Santiago de Cuba",
+    "description": "Cuba"
+  },
+  {
+    "title": "New York title",
+    "description": "United States"
+  },
+  {
+    "title": "Port-au-Prince",
+    "description": "Haiti"
+  },
+  {
+    "title": "San Carlos de Bariloche",
+    "description": "Argentina"
+  },
+  {
+    "title": "Quebec title",
+    "description": "Canada"
+  },
+  {
+    "title": "title of Halifax",
+    "description": "Canada"
+  },
+  {
+    "title": "Santa Cruz de la Sierra",
+    "description": "Bolivia"
+  },
+  {
+    "title": "St. George's",
+    "description": "Grenada"
+  },
+  {
+    "title": "Port of Spain",
+    "description": "Trinidad and Tobago"
+  },
+  {
+    "title": "Fort-de-France",
+    "description": "Martinique"
+  },
+  {
+    "title": "Ciudad del Este",
+    "description": "Argentina"
+  },
+  {
+    "title": "São José dos Campos",
+    "description": "Brazil"
+  },
+  {
+    "title": "Rio de Janeiro",
+    "description": "Brazil"
+  },
+  {
+    "title": "Horta (Azores)",
+    "description": "Portugal"
+  },
+  {
+    "title": "Angra do Heroísmo",
+    "description": "Portugal"
+  },
+  {
+    "title": "Santa Cruz de Tenerife",
+    "description": "Spain"
+  },
+  {
+    "title": "Las Palmas de Gran Canaria",
+    "description": "Spain"
+  },
+  {
+    "title": "Cork (title)",
+    "description": "Ireland"
+  },
+  {
+    "title": "Marrakech",
+    "description": "Morocco"
+  },
+  {
+    "title": "Andorra la Vella",
+    "description": "Andorra"
+  },
+  {
+    "title": "Luxembourg (title)",
+    "description": "Luxembourg"
+  },
+  {
+    "title": "title of San Marino",
+    "description": "San Marino"
+  },
+  {
+    "title": "Vatican title",
+    "description": ""
+  },
+  {
+    "title": "Split (title)",
+    "description": "Croatia"
+  },
+  {
+    "title": "Gdańsk",
+    "description": "Poland"
+  },
+  {
+    "title": "Thessaloniki",
+    "description": "Greece"
+  },
+  {
+    "title": "İzmir",
+    "description": "Turkey"
+  },
+  {
+    "title": "Chişinău",
+    "description": "Moldova"
+  },
+  {
+    "title": "Kiev",
+    "description": "Ukraine"
+  },
+  {
+    "title": "Dar es Salaam",
+    "description": "Tanzania"
+  },
+  {
+    "title": "Djibouti (title)",
+    "description": "Djibouti"
+  },
+  {
+    "title": "Tskhinvali",
+    "description": "Georgia"
+  },
+  {
+    "title": "Sana'a",
+    "description": "Yemen"
+  },
+  {
+    "title": "Nizhny Novgorod",
+    "description": "Russia"
+  },
+  {
+    "title": "Arbil",
+    "description": "Iraq"
+  },
+  {
+    "title": "Kuwait title",
+    "description": "Kuwait"
+  },
+  {
+    "title": "Malé",
+    "description": "Republic of Maldives"
+  },
+  {
+    "title": "Sri Jayawardenapura-Kotte",
+    "description": "Sri Lanka"
+  },
+  {
+    "title": "Kolkata",
+    "description": "India"
+  },
+  {
+    "title": "Naypyidaw",
+    "description": ""
+  },
+  {
+    "title": "Phuket (title)",
+    "description": "Thailand"
+  },
+  {
+    "title": "Alor Star",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Malacca Town",
+    "description": "Malaysia"
+  },
+  {
+    "title": "Huế",
+    "description": "Vietnam"
+  },
+  {
+    "title": "Xi'an",
+    "description": "China"
+  },
+  {
+    "title": "Yogyakarta (title)",
+    "description": "Indonesia"
+  },
+  {
+    "title": "Makati title",
+    "description": "Philippines"
+  },
+  {
+    "title": "Koror",
+    "description": "Republic of Palau"
+  },
+  {
+    "title": "Tokyo",
+    "description": "Japan"
+  },
+  {
+    "title": "Petropavlovsk-Kamchatsky",
+    "description": "Russia"
+  },
+  {
+    "title": "Yaren District",
+    "description": "Nauru"
+  },
+  {
+    "title": "Port Vila",
+    "description": "Vanuatu"
+  },
+  {
+    "title": "South Tarawa",
+    "description": ""
+  },
+  {
+    "title": "Mata-Utu",
+    "description": "Wallis and Futuna"
+  },
+  {
+    "title": "Anadyr (town)",
+    "description": ""
+  },
+  {
+    "title": "Nukulaelae",
+    "description": ""
+  }
+]
