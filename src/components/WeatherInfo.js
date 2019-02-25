@@ -5,6 +5,7 @@ import { Card, Statistic, Message } from "semantic-ui-react";
 import { fetchWeather } from "../actions/";
 
 class WeatherInfo extends Component {
+  // Haetaan uusi weather data kun valittu kaupunki muuttuu
   componentDidUpdate(prevProps, prevState, snapshot) {
     if (prevProps.city !== this.props.city) {
       this.props.fetchWeather(this.props.city.city);
@@ -12,7 +13,7 @@ class WeatherInfo extends Component {
   }
 
   render() {
-    if (!this.props.city || !this.props.weather) return null;
+    if (!this.props.city || !this.props.weather) return <div data-testid="weather-info-null"></div>;
     if (this.props.city instanceof Error || this.props.weather instanceof Error)
       return (
         <Message negative>
@@ -29,7 +30,7 @@ class WeatherInfo extends Component {
     };
 
     return (
-      <Card fluid>
+      <Card fluid data-testid="weather-info">
         <Card.Content>
           <Card.Header>{this.props.city.city}</Card.Header>
           <Card.Description>{this.props.city.country}</Card.Description>

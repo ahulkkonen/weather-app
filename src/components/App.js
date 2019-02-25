@@ -29,7 +29,7 @@ class App extends Component {
             weather-app by Aleksi Hulkkonen. Uses React, Redux, redux-thunk,
             local-storage, axios, Semantic UI and lodash. Other resources used
             are{" "}
-            <a href=" https://github.com/mahemoff/geodata/">
+            <a href="https://github.com/mahemoff/geodata/">
               World cities data (by mahemoff)
             </a>{" "}
             and <a href="https://openweathermap.org">OpenWeatherMap</a> and{" "}

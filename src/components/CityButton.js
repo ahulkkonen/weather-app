@@ -8,7 +8,7 @@ class CityButton extends Component {
   handleClick = e => {
     e.preventDefault();
 
-    this.props.setCity(this.props.cityName);
+    this.props.setCity(this.props.cityName, this.props.countryName);
   };
 
   render() {
