@@ -45,7 +45,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 * [World cities data (by mahemoff)](https://github.com/mahemoff/geodata/)
 * [OpenWeatherMap](https://openweathermap.org)
 * [geoip-db](http://geoip-db.com/)
-* Icon created by [Freepik](https://freepik.com) from [Flaticon}(www.flaticon.com) (Flaticon Basic License)
+* Icon created by [Freepik](https://freepik.com) from [Flaticon](www.flaticon.com) (Flaticon Basic License)
 
 
 ## License
