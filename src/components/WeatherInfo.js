@@ -13,7 +13,8 @@ class WeatherInfo extends Component {
   }
 
   render() {
-    if (!this.props.city || !this.props.weather) return <div data-testid="weather-info-null"></div>;
+    if (!this.props.city || !this.props.weather)
+      return <div data-testid="weather-info-null" />;
     if (this.props.city instanceof Error || this.props.weather instanceof Error)
       return (
         <Message negative>

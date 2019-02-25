@@ -17,7 +17,9 @@ class Geolocation extends Component {
         <Message icon>
           <Icon name="circle notched" loading />
           <Message.Content>
-            <Message.Header data-testid="loading-location">Loading your location</Message.Header>
+            <Message.Header data-testid="loading-location">
+              Loading your location
+            </Message.Header>
             We are detecting your location. Please allow up to 10 seconds.
           </Message.Content>
         </Message>
