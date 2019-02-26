@@ -52,7 +52,7 @@ class SavedCities extends Component {
     let { savedCities } = this.state;
 
     // No duplicates
-    if (!_.includes(savedCities, city.city)) {
+    if (!_.includes(savedCities, city)) {
       savedCities = [...savedCities, city];
 
       this.setState({ savedCities });
